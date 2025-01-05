@@ -1,0 +1,36 @@
+# IDE
+.ide
+.vscode
+
+# Distributions
+dist/
+
+# Testing
+/coverage
+
+# Production
+/build
+
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log file
+*.log
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
